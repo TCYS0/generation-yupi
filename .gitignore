@@ -1,7 +1,7 @@
 ### Customize
 .idea
 generation-yupi-basic.iml
-*./generation-yupi-projects.iml
+/generation-yupi-projects/generation-yupi-projects.iml
 
 ### Java template
 # Compiled class file
